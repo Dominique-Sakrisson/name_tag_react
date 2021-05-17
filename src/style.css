@@ -1,0 +1,11 @@
+.nameTag{
+    text-align: center;
+    background-color: blue;
+    height: 200px;
+    width: 400px;
+    border: 2px solid black;
+}
+
+.nameHeader{
+    background-color: green;
+}
